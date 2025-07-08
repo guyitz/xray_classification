@@ -1,0 +1,44 @@
+llama Vision Classification code:
+https://mer.vin/2024/11/ollama-llama-3-2-vision/
+Fine Tune llama 3.2 with radiology images:
+https://huggingface.co/0llheaven/Llama-3.2-11B-Vision-Radiology-mini
+https://mer.vin/2024/11/finetune-llama-3-2-vision-radiology-images/
+
+
+| Model               | Architecture           | Tasks                                | Notes                                                                       |
+| ------------------- | ---------------------- | ------------------------------------ | --------------------------------------------------------------------------- |
+| vit‑chest‑xray      | ViT (image classifier) | 5-way disease classification         | High accuracy, direct classification ([huggingface.co][1], [github.com][2]) |
+give good results and also have fast api that we can classify xrays (to understand what are the classes 1,2,3)
+
+https://github.com/schengal4/vit-chest-xray?utm_source=chatgpt.com
+
+
+running api https://huggingface.co/spaces/yassonee/chest
+
+
+| cxr‑foundation      | CNN-based foundation   | Embeddings, zero-shot classification | Excellent generalization & retrieval                                        |
+Trained on 800K xray images
+notebook for train and usage: 
+https://colab.research.google.com/github/google-health/cxr-foundation/blob/master/notebooks/train_data_efficient_classifier.ipynb#scrollTo=J4wOUaNNIsIg
+https://colab.research.google.com/github/google-health/cxr-foundation/blob/master/notebooks/quick_start_with_hugging_face.ipynb
+Little bit compilicated
+
+
+
+Additional Data Sets:
+NIH Chest X-rays Over 112,000 Chest X-ray images from more than 30,000 unique patients
+https://www.kaggle.com/datasets/nih-chest-xrays/data/discussion/300917
+
+COVID:
+https://figshare.com/articles/dataset/COVID-19_Chest_X-Ray_Image_Repository/12580328?file=28093332
+
+CNN Classification Project - very detailed:
+https://www.kaggle.com/code/vassiliph/chest-xray-images-pytorch-step-by-step-acc-94#scrollTo=4rdcLsHneIV3
+
+VGG Covid Classification:
+https://huggingface.co/ishans24/covid19-detection-xray/blob/main/covid-detect.ipynb
+
+
+GRAD CAM:
+https://www.kaggle.com/code/kaledhoshme/visual-explanations-gradcam-gradcam
+
