@@ -1,0 +1,252 @@
+image_name,directory,predicted_label,predicted_confidence_percent
+01.jpeg,01,No Finding,67.8
+010.jpeg,01,Cardiomegaly,37.9
+011.jpeg,01,No Finding,50.4
+012.jpeg,01,No Finding,56.8
+013.jpeg,01,No Finding,80.2
+016.jpeg,01,No Finding,64.5
+018.jpeg,01,Cardiomegaly,42.0
+019.jpeg,01,Cardiomegaly,48.0
+02.jpeg,01,Cardiomegaly,72.9
+020.jpeg,01,Cardiomegaly,48.0
+021.jpeg,01,No Finding,70.2
+022.jpeg,01,No Finding,42.8
+023.jpeg,01,No Finding,89.8
+024.jpeg,01,Cardiomegaly,66.3
+025.jpeg,01,Cardiomegaly,40.0
+027.jpeg,01,No Finding,65.3
+03.jpeg,01,Cardiomegaly,77.2
+031.jpeg,01,No Finding,49.8
+032.jpeg,01,Cardiomegaly,48.2
+033.jpeg,01,Cardiomegaly,53.5
+034.jpeg,01,Cardiomegaly,36.9
+035.jpeg,01,No Finding,37.0
+036.jpeg,01,No Finding,97.3
+037.jpeg,01,No Finding,72.0
+038.jpeg,01,No Finding,79.6
+04.jpeg,01,No Finding,80.0
+041.jpeg,01,Cardiomegaly,56.6
+042.jpeg,01,No Finding,90.6
+043.jpeg,01,No Finding,73.1
+044.jpeg,01,No Finding,38.6
+045.jpeg,01,No Finding,80.3
+046.jpeg,01,Cardiomegaly,54.4
+047.jpeg,01,Cardiomegaly,62.2
+048.jpeg,01,No Finding,78.6
+05.jpeg,01,No Finding,54.0
+051.jpeg,01,No Finding,66.3
+052.jpeg,01,No Finding,59.3
+053.jpeg,01,No Finding,43.2
+054.jpeg,01,No Finding,87.4
+055.jpeg,01,Cardiomegaly,67.0
+056.jpeg,01,No Finding,81.9
+057.jpeg,01,No Finding,76.7
+058.jpeg,01,No Finding,83.8
+06.jpeg,01,No Finding,89.5
+061.jpeg,01,No Finding,75.6
+062.jpeg,01,Cardiomegaly,52.4
+063.jpeg,01,No Finding,53.8
+064.jpeg,01,No Finding,91.4
+065.jpeg,01,No Finding,35.9
+066.jpeg,01,No Finding,80.4
+067.jpeg,01,No Finding,49.7
+068.jpeg,01,No Finding,62.7
+07.jpeg,01,No Finding,73.1
+071.jpeg,01,No Finding,67.3
+072.jpeg,01,No Finding,84.6
+073.jpeg,01,Cardiomegaly,81.9
+074.jpeg,01,No Finding,90.4
+075.jpeg,01,Cardiomegaly,74.6
+076.jpeg,01,Cardiomegaly,52.8
+077.jpeg,01,No Finding,79.6
+078.jpeg,01,No Finding,92.8
+08.jpeg,01,No Finding,50.6
+081.jpeg,01,No Finding,94.2
+082.jpeg,01,No Finding,94.9
+083.jpeg,01,No Finding,68.0
+084.jpeg,01,No Finding,91.7
+09.jpeg,01,No Finding,67.1
+094.jpeg,01,No Finding,68.2
+095.jpeg,01,Cardiomegaly,41.0
+096.jpeg,01,No Finding,39.0
+01.jpeg,02,No Finding,57.5
+010.jpeg,02,No Finding,67.3
+011.jpeg,02,No Finding,98.1
+012.jpeg,02,No Finding,98.2
+013.jpeg,02,No Finding,99.0
+014.jpeg,02,No Finding,92.6
+015.jpeg,02,No Finding,54.2
+016.jpeg,02,No Finding,99.3
+017.jpeg,02,No Finding,94.5
+018.jpeg,02,No Finding,98.8
+019.jpeg,02,No Finding,97.1
+02.jpeg,02,No Finding,99.0
+020.jpeg,02,No Finding,97.1
+021.jpeg,02,No Finding,97.0
+022.jpeg,02,No Finding,89.6
+023.jpeg,02,No Finding,89.4
+024.jpeg,02,No Finding,63.3
+025.jpeg,02,No Finding,96.3
+03.jpeg,02,No Finding,99.0
+04.jpeg,02,No Finding,83.2
+05.jpeg,02,No Finding,95.7
+050.jpeg,02,No Finding,96.8
+051.jpeg,02,No Finding,90.9
+052.jpeg,02,No Finding,97.8
+053.jpeg,02,No Finding,94.7
+054.jpeg,02,No Finding,97.7
+055.jpeg,02,No Finding,47.6
+056.jpeg,02,No Finding,98.7
+057.jpeg,02,No Finding,98.3
+058.jpeg,02,No Finding,88.7
+059.jpeg,02,No Finding,62.9
+06.jpeg,02,No Finding,98.1
+060.jpeg,02,No Finding,82.7
+061.jpeg,02,No Finding,99.0
+062.jpeg,02,No Finding,81.7
+063.jpeg,02,No Finding,45.9
+064.jpeg,02,No Finding,92.0
+065.jpeg,02,No Finding,97.1
+066.jpeg,02,No Finding,83.8
+067.jpeg,02,No Finding,96.8
+068.jpeg,02,No Finding,69.5
+069.jpeg,02,No Finding,62.3
+07.jpeg,02,No Finding,62.8
+070.jpeg,02,No Finding,89.0
+071.jpeg,02,No Finding,54.6
+072.jpeg,02,No Finding,94.5
+073.jpeg,02,No Finding,79.2
+074.jpeg,02,No Finding,76.9
+075.jpeg,02,No Finding,96.1
+076.jpeg,02,No Finding,98.4
+077.jpeg,02,No Finding,96.8
+079.jpeg,02,No Finding,90.5
+08.jpeg,02,No Finding,99.1
+080.jpeg,02,No Finding,79.7
+081.jpeg,02,No Finding,98.8
+082.jpeg,02,No Finding,97.8
+083.jpeg,02,No Finding,47.0
+084.jpeg,02,No Finding,95.3
+085.jpeg,02,No Finding,95.2
+086.jpeg,02,No Finding,95.4
+087.jpeg,02,No Finding,71.3
+088.jpeg,02,No Finding,92.2
+09.jpeg,02,No Finding,98.5
+091.jpeg,02,No Finding,44.5
+092.jpeg,02,Cardiomegaly,53.4
+093.jpeg,02,No Finding,82.9
+094.jpeg,02,No Finding,82.9
+095.jpeg,02,No Finding,56.4
+096.jpeg,02,No Finding,96.0
+097.jpeg,02,No Finding,96.2
+01.jpeg,03,No Finding,51.5
+010.png,03,No Finding,94.2
+012.jpeg,03,Consolidation,32.9
+015.jpg,03,Cardiomegaly,87.6
+019.png,03,No Finding,53.9
+02.jpeg,03,No Finding,69.0
+020.jpg,03,Cardiomegaly,52.7
+021.jpeg,03,No Finding,84.2
+022.jpeg,03,Cardiomegaly,58.6
+024.jpeg,03,Edema,72.5
+025.jpeg,03,Cardiomegaly,46.7
+026.jpeg,03,Cardiomegaly,84.3
+027.jpeg,03,No Finding,92.8
+03.jpeg,03,Edema,89.3
+031.jpeg,03,Cardiomegaly,40.8
+032.jpeg,03,Cardiomegaly,42.5
+033.png,03,Edema,51.8
+039.jpeg,03,Cardiomegaly,54.3
+04.png,03,No Finding,96.9
+040.jpeg,03,No Finding,91.9
+041.jpeg,03,No Finding,97.8
+042.jpeg,03,No Finding,94.5
+043.jpeg,03,Cardiomegaly,59.5
+044.jpeg,03,Cardiomegaly,51.9
+045.jpeg,03,No Finding,64.8
+046.jpeg,03,Cardiomegaly,78.0
+047.jpeg,03,Consolidation,47.4
+048.jpeg,03,Cardiomegaly,49.0
+049.jpeg,03,Cardiomegaly,47.2
+050.jpeg,03,No Finding,66.3
+051.jpeg,03,Cardiomegaly,54.7
+052.jpeg,03,Cardiomegaly,76.4
+053.jpeg,03,Cardiomegaly,38.1
+054.jpeg,03,No Finding,50.2
+055.jpeg,03,Cardiomegaly,75.6
+056.jpg,03,Cardiomegaly,52.4
+057.jpeg,03,No Finding,90.8
+058.jpeg,03,Cardiomegaly,61.1
+059.jpeg,03,Cardiomegaly,57.4
+06.jpeg,03,No Finding,92.5
+060.jpeg,03,No Finding,96.2
+061.jpg,03,Edema,88.8
+062.jpeg,03,No Finding,96.0
+064.jpg,03,Edema,70.7
+065.jpeg,03,Cardiomegaly,92.8
+067.jpg,03,Consolidation,52.6
+068.jpg,03,Consolidation,41.3
+069.jpg,03,No Finding,88.2
+07.jpg,03,Cardiomegaly,66.5
+071.jpg,03,Cardiomegaly,63.7
+072.jpeg,03,No Finding,98.7
+073.jpg,03,Cardiomegaly,49.2
+074.jpg,03,Cardiomegaly,53.9
+076.jpg,03,Consolidation,50.0
+078.jpeg,03,No Finding,75.7
+079.jpeg,03,Consolidation,50.5
+08.jpeg,03,Cardiomegaly,68.0
+080.jpg,03,Cardiomegaly,72.8
+081.jpeg,03,No Finding,58.5
+082.jpg,03,Edema,52.4
+083.jpeg,03,Cardiomegaly,93.8
+084.jpeg,03,No Finding,97.0
+085.jpeg,03,Edema,43.4
+086.jpg,03,Cardiomegaly,37.7
+088.jpeg,03,No Finding,86.8
+089.jpg,03,Edema,44.3
+09.png,03,No Finding,97.3
+090.jpeg,03,No Finding,97.2
+091.jpg,03,Cardiomegaly,43.4
+092.png,03,No Finding,89.6
+COVID-00001.jpg,03,Edema,44.2
+COVID-00002.jpg,03,Cardiomegaly,66.5
+COVID-00003a.jpg,03,No Finding,41.9
+COVID-00003b.jpg,03,Cardiomegaly,54.8
+COVID-00004.jpg,03,No Finding,80.1
+COVID-00005.jpg,03,Cardiomegaly,45.0
+COVID-00006.jpg,03,No Finding,83.4
+COVID-00007.jpg,03,Consolidation,60.2
+COVID-00008.jpg,03,Cardiomegaly,72.6
+COVID-00009.jpg,03,Consolidation,46.7
+COVID-00010.jpg,03,Cardiomegaly,84.2
+COVID-00011.jpg,03,No Finding,47.5
+COVID-00012.jpg,03,Cardiomegaly,52.7
+COVID-00013a.jpg,03,Edema,80.5
+COVID-00013b.jpg,03,Edema,78.5
+COVID-00014.jpg,03,No Finding,40.2
+COVID-00015a.png,03,Cardiomegaly,82.8
+COVID-00015b.png,03,Edema,59.0
+COVID-00016.jpg,03,Cardiomegaly,37.4
+COVID-00017.jpg,03,No Finding,32.6
+COVID-00018.jpg,03,No Finding,99.1
+COVID-00019.jpg,03,Edema,68.9
+COVID-00020.jpg,03,Cardiomegaly,60.1
+COVID-00021.jpg,03,Edema,47.8
+COVID-00022.jpg,03,No Finding,92.8
+COVID-00023.jpg,03,Cardiomegaly,41.6
+COVID-00024.jpg,03,Cardiomegaly,61.7
+COVID-00025.jpg,03,Edema,36.2
+COVID-00026.jpg,03,Edema,43.7
+COVID-00027.jpg,03,Cardiomegaly,75.6
+COVID-00028.jpg,03,No Finding,70.5
+COVID-00029.jpg,03,Cardiomegaly,74.5
+COVID-00030.jpg,03,Cardiomegaly,40.7
+COVID-00031.jpg,03,Cardiomegaly,46.6
+COVID-00032.jpg,03,Cardiomegaly,84.9
+COVID-00033.jpg,03,Edema,65.8
+COVID-00034.jpg,03,No Finding,91.5
+COVID-00035.jpg,03,Consolidation,58.7
+COVID-00036.jpg,03,Cardiomegaly,52.6
+COVID-00037.jpg,03,Edema,67.2
+COVID-00038.jpg,03,Consolidation,42.8

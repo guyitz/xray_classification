@@ -1,4 +1,6 @@
 llama Vision Classification code:
+20250708 I tried the classification without training - bad results all xray are normal
+
 https://mer.vin/2024/11/ollama-llama-3-2-vision/
 Fine Tune llama 3.2 with radiology images:
 https://huggingface.co/0llheaven/Llama-3.2-11B-Vision-Radiology-mini
@@ -11,9 +13,10 @@ https://mer.vin/2024/11/finetune-llama-3-2-vision-radiology-images/
 give good results and also have fast api that we can classify xrays (to understand what are the classes 1,2,3)
 
 https://github.com/schengal4/vit-chest-xray?utm_source=chatgpt.com
-
-
 running api https://huggingface.co/spaces/yassonee/chest
+
+20250708 - I ran the model and I got result dir 01 and 03 are not classified correctly however dir 02 seems to be normal 
+I didn't fine tune the model... 
 
 
 | cxr‑foundation      | CNN-based foundation   | Embeddings, zero-shot classification | Excellent generalization & retrieval                                        |
